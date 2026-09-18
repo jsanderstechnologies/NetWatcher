@@ -6,7 +6,11 @@ on:
       - 'v*'
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
+
   build:
     name: Build & Release APK
     runs-on: ubuntu-latest
