@@ -1,0 +1,3 @@
+kotlin version: 2.3.20
+error message: java.nio.file.FileSystemException: C:\Users\Jessie\AppData\Local\kotlin\daemon\kotlin-daemon-client-tsmarker4218634197005920703.tmp: There is not enough space on the disk
+
